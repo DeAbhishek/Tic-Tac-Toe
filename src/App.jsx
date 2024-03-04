@@ -1,9 +1,10 @@
 import "./App.css";
+import TicTacToe from "./components/TicTacToe";
 
 function App() {
   return (
     <>
-      <h1 className="text-7xl text-blue-800">Hello</h1>
+      <TicTacToe />
     </>
   );
 }
