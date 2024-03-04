@@ -7,7 +7,7 @@ const Reset = ({ gameState, onReset }) => {
       className="mt-12 p-5 bg-sky-700 text-white w-full text-[1.5em]"
       onClick={onReset}
     >
-      Reset
+      Play Again
     </button>
   );
 };
